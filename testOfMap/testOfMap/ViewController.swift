@@ -18,7 +18,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
         super.viewDidLoad()
         let location = CLLocationCoordinate2D(latitude: 40.6736381,
                                               longitude: -73.9829144)
-        
+        //testing PUSH func
         let span = MKCoordinateSpanMake(0.5, 0.5)
         let region = MKCoordinateRegion(center: location, span: span)
         myMapView.setRegion(region, animated: true)
