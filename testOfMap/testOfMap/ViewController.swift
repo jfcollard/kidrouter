@@ -5,7 +5,7 @@
 //  Created by user on 6/15/18.
 //  Copyright © 2018 JJF. All rights reserved.
 //
-
+// This comment was made by JF
 import UIKit
 import MapKit
 import CoreLocation
